@@ -1,5 +1,5 @@
 
-MENU = """C - Convert Celsius to Fahrenheit
+MENU = """C - Convert Celsius to Fahrenheit 
     F - Convert Fahrenheit to Celsius
     Q - Quit"""
 
